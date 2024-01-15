@@ -1,0 +1,2 @@
+PYFILE = "Best school"
+print(PYFILE)
